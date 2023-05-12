@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://hci.daryandev.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Human-Computer Interaction'
+theme = 'paper'
